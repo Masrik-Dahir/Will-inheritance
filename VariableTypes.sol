@@ -1,12 +1,12 @@
 //import qwer
-pragma solidity ^0.4.0;
+pragma solidity ^0.8.9;
 
 // String
-string name = "string"
+string name = "string";
 
 
 // integers
-uyint storedData = 34;
+uint storedData = 34;
 
 // boolean
 bool atrueorfalsevalue = false;
